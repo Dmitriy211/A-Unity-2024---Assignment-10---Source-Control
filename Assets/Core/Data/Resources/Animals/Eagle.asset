@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Stats>k__BackingField:
     name: Eagle
-    speed: 2
+    speed: 4
   <AnimalVisuals>k__BackingField: {fileID: 5132683525552073476, guid: 9b91ee823a3308c4ba59eb7c0575b65e, type: 3}
