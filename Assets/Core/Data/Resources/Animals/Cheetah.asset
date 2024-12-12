@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Cheetah
   m_EditorClassIdentifier: 
   <Stats>k__BackingField:
-    name: 
-    speed: 0
-  <AnimalVisuals>k__BackingField: {fileID: 0}
+    name: Cheetah
+    speed: 10
+  <AnimalVisuals>k__BackingField: {fileID: 2237212042957059684, guid: d5df734690c7d534e838c718442dce19, type: 3}
