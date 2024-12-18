@@ -15,4 +15,4 @@ MonoBehaviour:
   <Stats>k__BackingField:
     name: Eagle
     speed: 2
-  <AnimalVisuals>k__BackingField: {fileID: 5132683525552073476, guid: 9b91ee823a3308c4ba59eb7c0575b65e, type: 3}
+  <AnimalVisuals>k__BackingField: {fileID: 2851005681466589441, guid: 2b1087025c3316645b0e54450ff35c69, type: 3}
