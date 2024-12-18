@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Raccon
   m_EditorClassIdentifier: 
   <Stats>k__BackingField:
-    name: 
-    speed: 0
+    name: Raccon
+    speed: 2
   <AnimalVisuals>k__BackingField: {fileID: 2851005681466589441, guid: 2b1087025c3316645b0e54450ff35c69, type: 3}
