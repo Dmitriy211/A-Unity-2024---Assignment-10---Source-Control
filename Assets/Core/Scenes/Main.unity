@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028377, g: 0.2257141, b: 0.306923, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1395,7 +1394,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _applicableSurface:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
   _animalPrefab: {fileID: 2523369167685219713, guid: e8136778a70d1b743aaf4ebaf9409db8, type: 3}
 --- !u!4 &2129710022
 Transform:
